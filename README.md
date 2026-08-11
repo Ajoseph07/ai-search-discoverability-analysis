@@ -1,4 +1,4 @@
-#AI Search Discoverability Analysis for Consumer Electronics: AEO, GEO & Competitive Content Strategy
+# AI Search Discoverability Analysis for Consumer Electronics: AEO, GEO & Competitive Content Strategy
 
 ## Overview
 
