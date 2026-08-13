@@ -91,3 +91,12 @@ analysis/
 
 data/
     consumer_search_queries.csv
+
+visuals/
+```
+
+---
+
+## Disclaimer
+
+This project was created for learning and portfolio purposes. All product information and trademarks belong to their respective owners.
