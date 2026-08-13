@@ -1,4 +1,4 @@
-# AI Search Optimization Audit (SEO, AEO & GEO)
+# AI Search Optimization Audit (SEO, AEO, & GEO)
 
 ## Overview
 
